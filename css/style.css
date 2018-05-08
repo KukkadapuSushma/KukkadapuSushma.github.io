@@ -874,7 +874,7 @@ h3.subheading-agileits-w3layouts {
 }
 
 .p2 {
-	height: 86px;
+	height: 90px;
 	margin-top: 14px!important;
 }
 
@@ -889,12 +889,12 @@ h3.subheading-agileits-w3layouts {
 }
 
 .p5 {
-	height: 65px;
+	height: 85px;
 	margin-top: 35px!important;
 }
 
 .p6 {
-	height: 93px;
+	height: 72px;
 	margin-top: 7px!important;
 }
 
@@ -1230,9 +1230,10 @@ h3.subheading-agileits-w3layouts {
 	text-align: center;
 }
 
-.w3l-social ul li a.fa.fa-facebook,
+.w3l-social ul li a.fa.fa-github,
+.w3l-social ul li a.fa.fa-linkedin,
 .w3l-social ul li a.fa.fa-twitter,
-.w3l-social ul li a.fa.fa-google-plus {
+.w3l-social ul li a.fa.fa-youtube {
 	width: 35px;
 	color: #ffffff;
 	border-radius: 50%;
