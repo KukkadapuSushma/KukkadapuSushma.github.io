@@ -165,15 +165,15 @@ header {
 	height: 2px;
 	bottom: -8px;
 	right: 1px;
-	background: #47cf73;
+	background: #c19b03;
 }
 
 .banner-text-w3-agileits h2 span {
-	color: #47cf73;
+	color: #c19b03;
 }
 
 .banner-text-w3-agileits p {
-	color: #47cf73;
+	color: #c19b03;
 	font-size: 1em;
 	letter-spacing: 7px;
 	font-weight: 400;
@@ -202,7 +202,7 @@ header {
 	-moz-transition: 0.5s ease-in;
 	-ms-transition: 0.5s ease-in;
 	-o-transition: 0.5s ease-in;
-	color: #47cf73;
+	color: #c19b03;
 }
 
 .botton a {
@@ -223,7 +223,7 @@ header {
 	display: inline-block;
 	width: 35px;
 	height: 35px;
-	border-left: 1px solid #47cf73;
+	border-left: 1px solid #c19b03;
 	border-radius: 50%;
 	vertical-align: middle;
 	text-align: center;
@@ -292,7 +292,7 @@ nav.shift ul li a:after {
 	content: '.';
 	color: transparent;
 	/* background: #47cf73; */
-	border-bottom: 2px solid #47cf73;
+	border-bottom: 2px solid #c19b03;
 	opacity: 0;
 	z-index: -1;
 }
@@ -481,8 +481,8 @@ h5.title-w3 span {
 	text-align: left;
 	padding: 5px 0px 5px 9px;
 	/* background: #47cf73; */
-	border-bottom: 2px solid #47cf73;
-	border-left: 2px solid #47cf73;
+	border-bottom: 2px solid #c19b03;
+	border-left: 2px solid #c19b03;
 	border-radius: 20px;
 	box-shadow: -3px 2px 3px #b9b9b9;
 	color: #000;
@@ -547,7 +547,7 @@ h5.title-w3 span {
 /*--about --*/
 
 h3.subheading-agileits-w3layouts {
-	color: #47cf73;
+	color: #c19b03;
 	font-size: 25px;
 	letter-spacing: 1px;
 	margin-bottom: 0.5em;
@@ -598,12 +598,13 @@ h3.subheading-agileits-w3layouts {
 	width: 100%;
 	padding: 0.7em 0;
 	background: rgb(0, 0, 0);
-	border-bottom: 4px solid #47cf73;
+	border-bottom: 4px solid #c19b03;
+	
 	bottom: 0;
 }
 
 .services-grids:hover h6 {
-	background: #47cf73;
+	background: #c19b03;
 	border-bottom: 4px solid #000;
 	transition: all 0.7s ease-in-out;
 	-webkit-transition: all 0.7s ease-in-out;
@@ -613,7 +614,7 @@ h3.subheading-agileits-w3layouts {
 }
 
 .services-grids a {
-	color: #47cf73;
+	color: #c19b03;
 	font-size: 2em;
 	margin: 0.8em 0 0;
 }
@@ -651,7 +652,8 @@ h3.subheading-agileits-w3layouts {
 
 .person-info-agileits-w3layouts {
 	padding: 3em;
-	background: #47cf73;
+	
+	background: #c19b03;
 	position: absolute;
 	left: 3em;
 	top: 4.4em;
@@ -802,7 +804,7 @@ h3.subheading-agileits-w3layouts {
 	transition: all .5s ease;
 	width: 20%;
 	height: 3px;
-	background: #47cf73;
+	background: #c19b03;
 	left: 40%;
 	bottom: 0;
 }
@@ -862,7 +864,7 @@ h3.subheading-agileits-w3layouts {
 	font-size: 14px;
 	padding-top: 0.5em;
 	width: 50px;
-	background: #47cf73;
+	background: #c19b03;
 	text-align: center;
 	margin: 0 auto 1em;
 	border-bottom: 3px solid #000;
@@ -953,7 +955,7 @@ h3.subheading-agileits-w3layouts {
 
 #style-1::-webkit-scrollbar-track,
 #style-2::-webkit-scrollbar-track {
-	background-color: #47cf73;
+	background-color: #c19b03;
 }
 
 #style-1::-webkit-scrollbar,
@@ -998,8 +1000,8 @@ h3.subheading-agileits-w3layouts {
 	letter-spacing: 1px;
 	text-align: center;
 	padding: 5px 0;
-	border-bottom: 2px solid #47cf73;
-	border-left: 2px solid #47cf73;
+	border-bottom: 2px solid #c19b03;
+	border-left: 2px solid #c19b03;
 	border-radius: 20px;
 	box-shadow: -3px 2px 3px #b9b9b9;
 	color: #000;
@@ -1051,7 +1053,7 @@ h3.subheading-agileits-w3layouts {
 }
 
 .progress-bar {
-	background-color: #47cf73;
+	background-color: #c19b03;
 }
 
 .bar-grids h6 {
@@ -1145,7 +1147,7 @@ h3.subheading-agileits-w3layouts {
 	letter-spacing: 2px;
 	margin: 1em 0 0 0;
 	-webkit-appearance: none;
-	background: #47cf73;
+	background: #c19b03;
 	border: none;
 	transition: 0.5s ease-in;
 	-webkit-transition: 0.5s ease-in;
@@ -1179,7 +1181,7 @@ h3.subheading-agileits-w3layouts {
 	font-size: 20px;
 	letter-spacing: 2px;
 	color: #ffffff;
-	border-top: 2px solid #47cf73;
+	border-top: 2px solid #c19b03;
 	display: inline-block;
 	padding: 10px 30px 20px;
 }
@@ -1284,7 +1286,7 @@ h3.subheading-agileits-w3layouts {
 }
 
 .copyright-wthree a {
-	color: #47cf73;
+	color: #c19b03;
 	text-decoration: underline;
 }
 
@@ -1611,7 +1613,7 @@ h3.subheading-agileits-w3layouts {
 		margin: 10px!important;
 	}
 	.navbar-default .navbar-toggle {
-		border-color: #47cf73;
+		border-color: #c19b03;
 	}
 	.navbar-default .navbar-toggle .icon-bar {
 		background-color: #fff;
